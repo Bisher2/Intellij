@@ -3,6 +3,6 @@ public class Math {
 
     }
     public int Subtract (int b, int a) {
-        return b -a;
+        return b + a;
     }
 }
